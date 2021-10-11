@@ -26,3 +26,12 @@ Ensuite cliquez sur le bouton "Ajoutez à Chrome (ou bien votre navigateur)"
 ![tot](https://user-images.githubusercontent.com/92095174/136769620-d5efd929-d84d-4dfc-8f6d-8cd65a34eac6.png)
 
 Cliquez sur "Ajouter l'extension" sur la fenêtre qui va s'ouvrir. Voilà ! Votre extension est installée !
+
+Extensions à utiliser !| Pourquoi
+------------ | ------------ 
+AdBlock | Bloque les pubs !
+Dark Reader | Theme noir ! 😀
+
+- [x] Installer un navigateur  
+- [ ] Adblock 
+- [ ] Dark Reader
