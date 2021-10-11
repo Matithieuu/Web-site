@@ -1,4 +1,4 @@
-<mainpage-leftcolumn-start /><div style="text-align: center; font-size: x-large; padding: 1em;">'''Bienvenue sur le {{SITENAME}} !'''</div>
+<mainpage-leftcolumn-start /><div style="text-align: center; font-size: x-large; padding: 1em;">'''Bienvenue sur le wiki de L'Equipe de france de soccer français !" !'''</div>
 
 <br />![langfr-150px-Logo_Équipe_France_Football_2018 svg](https://user-images.githubusercontent.com/92095174/136759019-45471b48-b1ef-4016-beb9-ebd7dc8c2b88.png)
 
@@ -54,7 +54,8 @@ L'équipe de France possède deux jeux de maillots : un bleu pour les matchs à 
 
 <br />
 <h1>Les légendes </h1>
-![tetedenoisett](https://user-images.githubusercontent.com/92095174/136759487-85937ed1-41cd-4234-94ec-b2e97c205dfc.jpg)
+![tetedenoisett](https://user-images.githubusercontent.com/92095174/136759726-418f4c62-993c-46d4-9771-377a5b6c156c.jpg)
+
 
 
 ![zizou1](https://user-images.githubusercontent.com/92095174/136759514-3899a0f7-0dde-40ed-a1cb-b10758da7363.jpeg)
