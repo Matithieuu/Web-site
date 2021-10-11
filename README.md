@@ -2,10 +2,10 @@
 [[Fichier:Langfr-150px-Logo Équipe France Football 2018.svg.png|vignette]]
 '''French soccer''' 
 
-'''<br />'''
+<br />
 <h1>Histoire :</h1>
 
-L''''équipe de France de football''', créée en 1904, est l'équipe nationale qui représente la France dans les compétitions internationales masculines de football, sous l'égide de la Fédération française de football (FFF). Elle sélectionne les meilleurs joueurs français. Ces derniers, composant cette équipe, sont traditionnellement appelés ''Les Tricolores'' ou encore ''Les Bleus''. De nos jours, c'est cette dernière appellation qui est la plus usitée.
+L'équipe de France de football, créée en 1904, est l'équipe nationale qui représente la France dans les compétitions internationales masculines de football, sous l'égide de la Fédération française de football (FFF). Elle sélectionne les meilleurs joueurs français. Ces derniers, composant cette équipe, sont traditionnellement appelés ''Les Tricolores'' ou encore ''Les Bleus''. De nos jours, c'est cette dernière appellation qui est la plus usitée.
 
 Jusque dans les années 1980, le palmarès de l'équipe de France reste vierge, avec comme meilleur résultat une troisième place obtenue à la Coupe du monde 1958. Après une demi-finale mémorable à la Coupe du monde 1982, perdu contre l'Allemagne au tir au but, elle remporte le Championnat d'Europe 1984 à domicile contre l'Espagne (2-0), puis le titre olympique à Los Angeles la même année, ainsi que la Coupe intercontinentale des nations en 1985. L'équipe embellit son palmarès à la fin du <abbr>xx<sup>e</sup></abbr> siècle. Pays hôte de la Coupe du monde 1998, la France gagne la compétition pour la première fois en battant le Brésil en finale (3-0) le 12 juillet 1998 au stade de France. Avec une formation à l'ossature identique, elle remporte dans la foulée l'Euro 2000 grâce à sa victoire sur l'Italie en finale (2-1, sur un but en or de David Trezeguet), le 2 juillet 2000 au Kuip de Rotterdam (premier doublé Mondial-Euro réalisé dans ce sens)Note 1. Les ''Bleus'' s'adjugent encore deux coupes des Confédérations en 2001 et 2003. Ils occupent la première place du classement mondial de la FIFA de mai 2001 à juin 2002. Ils atteignent la finale de la Coupe du monde 2006 en Allemagne, qu'ils perdent aux tirs au but face à l'Italie. Lors de l'Euro 2016 en France, ils éliminent l'Allemagne pour la première fois depuis 58 ans en compétition internationale et disputent la finale lors de laquelle ils sont battus 1-0 a. p. par le Portugal. Enfin les ''Bleus'' remportent leur deuxième titre mondial en s'imposant en finale de la Coupe du monde 2018 devant la Croatie (4-2), le 15 juillet 2018 au stade Loujniki de Moscou. La France est alors la seule équipe à avoir disputé trois finales de Coupe du monde et à en avoir gagné deux sur les six dernières éditions, mais également cinq finales majeures (Mondial, Euro) en vingt ans pour trois victoires.
 
@@ -17,7 +17,7 @@ Le coq gaulois est le symbole de l'équipe et ses couleurs sont celles du drapea
 
 <br />
 
-===='''Année 1998 :'''====
+<h1>Année 1998 :</h1>
 [[Fichier:Zidaneee.jpg|vignette]]
 Si la série de matchs préparatoires à la Coupe du monde soulève une certaine inquiétude auprès de plusieurs observateurs, ce qui vaudra notamment au journal ''l'Équipe'' les foudres d'Aimé Jacquet ''a posteriori'', les Bleus sont bel et bien présents au rendez-vous. Ils se sortent avec facilité du premier tour : victoires contre l'Afrique du Sud (3-0), l'Arabie saoudite (4-0) et le Danemark (2-1).En huitièmes, les ''Bleus'', privés de Zidane suspendu, butent contre le mur défensif du Paraguay et de son excellent gardien de but José Luis Chilavert. La qualification arrachée (1-0) en prolongation (but en or de Laurent Blanc) permet aux Bleus de retrouver l'Italie en quart de finale. Au terme de cent-vingt minutes intenses mais sans but (0-0), les deux équipes jouent leur qualification aux tirs au but et la France s'impose (4 T.A.B.3) à la suite d'un penalty raté de Luigi Di Biagio. En demi-finale, la France semble proche de tomber après un but encaissé en début de seconde mi-temps face aux surprenants Croates, mais les deux seuls buts en Équipe de France du latéral français Lilian Thuram la qualifient (2-1) pour la première finale de son histoire, face au Brésil.
 [[Fichier:Pogba?.jpg|vignette]]
@@ -41,14 +41,14 @@ Le classement mondial de la FIFA du 16 août 2018 voit la France remonter de la 
 [[Fichier:Maillot.jpg|vignette]]
 <br />
 
-====Maillot :====
+<h1>Maillot : </h1>
 L'équipe de France possède deux jeux de maillots : un bleu pour les matchs à domicile et un, classiquement blanc, pour les matchs à l'extérieur. Quelle que soit la couleur du maillot, le short est soit bleu soit blanc, et les chaussettes peuvent être soit rouges, soit blanches, soit bleues. La tenue la plus utilisée dans l'histoire de l'équipe est un maillot bleu avec un short blanc et des chaussettes rouges, reprenant les couleurs du drapeau national.
 [[Fichier:France.jpg|vignette]]
 
 
 
 <br />
-==Les légendes==
+<h1>Les légendes </h1>
 [[Fichier:Noisette.jpg|vignette|Mbappe|alt=|gauche]]
 
 *[[Fichier:Zizou.jpg|vignette|Zizou   |alt=]]<!-- La galerie ci-dessus convient parfaitement pour les pages d'articles mais il serait également bien d'en avoir une autre juste en dessous qui listerait les pages de Catégorie: les plus importantes. -->
@@ -57,7 +57,7 @@ L'équipe de France possède deux jeux de maillots : un bleu pour les matchs à 
 
 <br />
 <br />
-===='''Source :'''====
+<h1>Source :</h1>
 https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football<mainpage-endcolumn />
 <mainpage-rightcolumn-start /><nowiki>*</nowiki>[[Project:Règlement|Règles de ce wiki]]
 
