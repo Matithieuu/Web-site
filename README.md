@@ -1,4 +1,14 @@
 <div>
+  <h1> Sommaire </h1>
+  <ul>
+    <li> Utiliser Chromium sous Ubuntu </li>
+    <ul> 
+      <li> Comment installer une extension ? </li>
+    </ul>
+  </ul>
+ </div>
+
+<div>
   <h1>Comment utiliser Chromium sous Ubuntu ?</h1>
   <p> Ouvez le menu en haut à gauche </br>
       Ensuite tappez chromium et cliquez dessus
