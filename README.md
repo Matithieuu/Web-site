@@ -35,3 +35,5 @@ Dark Reader | Theme noir ! 😀
 - [x] Installer un navigateur  
 - [ ] Adblock 
 - [ ] Dark Reader
+
+[FastBoyFast](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=fr)
