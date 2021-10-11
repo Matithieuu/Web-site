@@ -1,8 +1,7 @@
 <mainpage-leftcolumn-start /><div style="text-align: center; font-size: x-large; padding: 1em;">'''Bienvenue sur le {{SITENAME}} !'''</div>
-[[Fichier:Langfr-150px-Logo Équipe France Football 2018.svg.png|vignette]]
-'''French soccer''' 
 
-<br />
+<br />![langfr-150px-Logo_Équipe_France_Football_2018 svg](https://user-images.githubusercontent.com/92095174/136759019-45471b48-b1ef-4016-beb9-ebd7dc8c2b88.png)
+
 <h1>Histoire :</h1>
 
 L'équipe de France de football, créée en 1904, est l'équipe nationale qui représente la France dans les compétitions internationales masculines de football, sous l'égide de la Fédération française de football (FFF). Elle sélectionne les meilleurs joueurs français. Ces derniers, composant cette équipe, sont traditionnellement appelés ''Les Tricolores'' ou encore ''Les Bleus''. De nos jours, c'est cette dernière appellation qui est la plus usitée.
@@ -18,10 +17,12 @@ Le coq gaulois est le symbole de l'équipe et ses couleurs sont celles du drapea
 <br />
 
 <h1>Année 1998 :</h1>
-[[Fichier:Zidaneee.jpg|vignette]]
+
 Si la série de matchs préparatoires à la Coupe du monde soulève une certaine inquiétude auprès de plusieurs observateurs, ce qui vaudra notamment au journal ''l'Équipe'' les foudres d'Aimé Jacquet ''a posteriori'', les Bleus sont bel et bien présents au rendez-vous. Ils se sortent avec facilité du premier tour : victoires contre l'Afrique du Sud (3-0), l'Arabie saoudite (4-0) et le Danemark (2-1).En huitièmes, les ''Bleus'', privés de Zidane suspendu, butent contre le mur défensif du Paraguay et de son excellent gardien de but José Luis Chilavert. La qualification arrachée (1-0) en prolongation (but en or de Laurent Blanc) permet aux Bleus de retrouver l'Italie en quart de finale. Au terme de cent-vingt minutes intenses mais sans but (0-0), les deux équipes jouent leur qualification aux tirs au but et la France s'impose (4 T.A.B.3) à la suite d'un penalty raté de Luigi Di Biagio. En demi-finale, la France semble proche de tomber après un but encaissé en début de seconde mi-temps face aux surprenants Croates, mais les deux seuls buts en Équipe de France du latéral français Lilian Thuram la qualifient (2-1) pour la première finale de son histoire, face au Brésil.
-[[Fichier:Pogba?.jpg|vignette]]
+![zidaneee](https://user-images.githubusercontent.com/92095174/136759109-76da7ef4-c049-4f4f-ae67-ab9b072c5fa5.jpg)
+
 Le Brésil impressionne depuis le début de la compétition par la puissance et l'adresse de ses attaquants, mais laisse également entrevoir de grosses carences défensives. Dominateurs et réalistes, les Français prennent l'avantage en première période grâce à deux buts de la tête de Zidane sur corner. Réduits à dix en seconde période à la suite de l'expulsion de Desailly, la France subit mais résiste notamment grâce à Fabien Barthez, auteur de parades décisives, puis finit par inscrire en contre un troisième but libérateur par Emmanuel Petit dans les derniers instants du match (3-0), qui est d'ailleurs le 1000<sup>e</sup> but de l'histoire de l'Équipe de France73. Didier Deschamps devient, le 12 juillet 1998, le premier joueur français à soulever la Coupe du monde. I love u Zizou
+![pogba?](https://user-images.githubusercontent.com/92095174/136759145-8884ff9a-7501-4e6b-9def-6680f8e1d40a.jpg)
 
 Les Bleus sont la <abbr>7<sup>e</sup></abbr> sélection de l'histoire à être sacrée championne du monde.
 <br />
@@ -30,39 +31,39 @@ Les Bleus sont la <abbr>7<sup>e</sup></abbr> sélection de l'histoire à être s
 Lors des éliminatoires pour la Coupe du monde 2018, les vice-champions d'Europe sont placés dans le groupe A avec pour principaux adversaires les Pays-Bas et la Suède. La France entre timidement dans ces qualifications en faisant un match nul en Biélorussie (0-0) avant de se rassurer en enchaînant quatre victoires consécutives face aux autres équipes du groupe. La phase retour des éliminatoires est plus compliquée, les Bleus s'inclinent d'abord en Suède en encaissant un but dans le temps additionnel de la seconde période à la suite d'un dégagement raté de Lloris. Ensuite, malgré une nette victoire face aux Pays-Bas (4-0), ils concèdent un match nul face à la modeste équipe du Luxembourg (0-0), une première depuis 1914105. Finalement, l'équipe de France décroche son billet pour la Russie en remportant ses deux derniers matchs face à la Bulgarie (1-0) et la Biélorussie (2-1). L'équipe termine ainsi en tête de son groupe et se qualifie directement pour sa sixième Coupe du monde.
 
 Comme lors des précédents tirages avec Didier Deschamps, la France tombe dans un groupe abordable, avec le Pérou, l'Australie et le Danemark. Ces trois équipes ont le point commun de s'être qualifiées par l'intermédiaire des barrages. Le 17 mai, Didier Deschamps dévoile sa liste des 23 joueurs retenus, avec de jeunes joueurs alors peu connus comme Lucas Hernandez, Benjamin Pavard ou encore Steven Nzonzi, et sans Adrien Rabiot, ce qui provoque la colère du joueur, qui refuse son rôle de suppléant. Les Bleus commencent la préparation de la compétition le 28 mai par une victoire face à la République d'Irlande (2-0), et enchaînent face à l'Italie le 1<sup>er</sup> juin (3-1) avant de terminer par un match nul contre les États-Unis (1-1) le 9 juin.
-[[Fichier:Oééé.jpg|vignette]]
+![noisette](https://user-images.githubusercontent.com/92095174/136759280-86d153b6-f2ea-41d8-8083-82923d8493cd.jpg)
+
 Pour son entrée en compétition, la France bat difficilement l'Australie (2-1) grâce à un penalty transformé par Griezmann accordé à la suite de l'utilisation de l’assistance vidéo (une première en Coupe du Monde) et un but accordé grâce à la technologie sur la ligne de but. Les Bleus l'emportent également face au Pérou (1-0) sur un but de Kylian Mbappé qui, à 19 ans et 6 mois, devient le plus jeune buteur de l'histoire de l'équipe de France lors d'un tournoi majeur. Elle achève le premier tour par un match nul contre le Danemark (0-0), qui assure aux ''Bleus'' la première place du groupe. Lors des huitièmes de finale face à l'Argentine, les Bleus l'emportent 4-3 après être revenu au score, grâce notamment à un doublé de Mbappé et une demi volée d'anthologie de Benjamin Pavard (élu par la suite plus beau but de la compétition). Ils confirment ensuite leur montée en puissance dans la compétition par un quart de finale maîtrisé face à l'Uruguay en remportant le match 2-0. Les Bleus accèdent ainsi aux demi-finales de la Coupe du monde pour la sixième fois de leur histoire.
 
 Le 10 juillet, l'équipe de France remporte la demi-finale au cours d'un match serré (1-0) face à la Belgique, grâce à un but de Samuel Umtiti. La France dispute sa troisième finale de Coupe du monde après 1998 et 2006.
 
 Le 15 juillet 2018, à Moscou, les ''Bleus'' sortent victorieux de la finale face à la Croatie (4-2) grâce à un pénalty marqué par Antoine Griezmann et deux autres buts marqués respectivement par Paul Pogba et Kylian Mbappé (le premier but en faveur de l'équipe de France est un but contre son camp du joueur croate Mario Mandžukić lors d'un coup franc tiré par Griezmann), la France remporte ainsi sa deuxième Coupe du monde, 20 ans après celle de 1998113. Kylian Mbappé est désigné meilleur jeune joueur à l'issue de la compétition tandis qu'Antoine Griezmann est désigné troisième meilleur joueur du tournoi. L'audience de la finale a cumulé 1,12 milliards de téléspectateurs.
+![oééé](https://user-images.githubusercontent.com/92095174/136759380-900f58e9-78c5-4ac9-aa52-50f3ba84400c.jpg)
 
 Le classement mondial de la FIFA du 16 août 2018 voit la France remonter de la septième à la première place devant la Belgique et le Brésil. C'est la première fois depuis 2002 que les ''Bleus'' sont au sommet de la hiérarchie mondiale du football.
-[[Fichier:Maillot.jpg|vignette]]
+
 <br />
 
 <h1>Maillot : </h1>
 L'équipe de France possède deux jeux de maillots : un bleu pour les matchs à domicile et un, classiquement blanc, pour les matchs à l'extérieur. Quelle que soit la couleur du maillot, le short est soit bleu soit blanc, et les chaussettes peuvent être soit rouges, soit blanches, soit bleues. La tenue la plus utilisée dans l'histoire de l'équipe est un maillot bleu avec un short blanc et des chaussettes rouges, reprenant les couleurs du drapeau national.
-[[Fichier:France.jpg|vignette]]
 
+![france](https://user-images.githubusercontent.com/92095174/136759442-629622a5-6be6-432f-ad9a-847d6abe3375.jpeg)
+
+![maillot](https://user-images.githubusercontent.com/92095174/136759452-8ffa0f31-96dd-48fb-8d1f-64fa62c68e46.jpeg)
 
 
 <br />
 <h1>Les légendes </h1>
-[[Fichier:Noisette.jpg|vignette|Mbappe|alt=|gauche]]
+![tetedenoisett](https://user-images.githubusercontent.com/92095174/136759487-85937ed1-41cd-4234-94ec-b2e97c205dfc.jpg)
 
-*[[Fichier:Zizou.jpg|vignette|Zizou   |alt=]]<!-- La galerie ci-dessus convient parfaitement pour les pages d'articles mais il serait également bien d'en avoir une autre juste en dessous qui listerait les pages de Catégorie: les plus importantes. -->
 
+![zizou1](https://user-images.githubusercontent.com/92095174/136759514-3899a0f7-0dde-40ed-a1cb-b10758da7363.jpeg)
 
 
 <br />
 <br />
 <h1>Source :</h1>
 https://fr.wikipedia.org/wiki/%C3%89quipe_de_France_de_football<mainpage-endcolumn />
-<mainpage-rightcolumn-start /><nowiki>*</nowiki>[[Project:Règlement|Règles de ce wiki]]
-
-Vous pouvez également faire partie de la grande famille des communautés Fandom. Venez visiter le [[w:c:communaute|Centre des communautés]] !
 
 <br />
 <mainpage-endcolumn />
-[[Catégorie:{{SITENAME}}]]
