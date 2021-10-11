@@ -1,4 +1,4 @@
-<d1>
+<div>
   <h1> <strong>Comment utiliser Chromium sous Ubuntu</strong ?</h1>
   <p> Ouvez le menu en haut à gauche </br>
     Ensuite tappez chromium et cliquez dessus
@@ -11,4 +11,4 @@
     Tout d'abord, recherchez le nom de l'extension ainsi que le navigateur que vous utilisez et cliquez sur le premier lien que vous verrez. 
   </p>
   ![Capture du 2021-10-11 11-37-03](https://user-images.githubusercontent.com/92095174/136768399-c153ee59-c159-43dd-a3de-089aca3efea3.png)
-</d1>
+</div>
