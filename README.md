@@ -3,7 +3,8 @@
   <p> Ouvez le menu en haut à gauche </br>
     Ensuite tappez chromium et cliquez dessus
     </p>
-</div>![Capture du 2021-10-11 11-18-53](https://user-images.githubusercontent.com/92095174/136769027-3150c405-1e67-44e3-a360-6dfe56fb6caa.png)
+</div>
+![Capture du 2021-10-11 11-18-53](https://user-images.githubusercontent.com/92095174/136769027-3150c405-1e67-44e3-a360-6dfe56fb6caa.png)
 
 
 
