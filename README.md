@@ -1,6 +1,6 @@
 # Sommaire
 
-*   Utiliser Chromium sous Ubuntu
+*   Comment utiliser Chromium sous Ubuntu ?
 
 *   Comment installer une extension ?
 
